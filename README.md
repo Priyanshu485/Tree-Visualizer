@@ -46,4 +46,4 @@ Try it live here:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kundan-2026/Tree-visualization
+git clone https://github.com/Priyanshu485/Tree-Visualizer
